@@ -1,6 +1,6 @@
 # 📱 My Android Open Source Toolbox
 
-这是一个由 [Obtainium](https://github.com/ImranRaza/Obtainium) 驱动的个人安卓开源应用清单。包含了我日常使用的系统工具、影音播放、阅读器及模拟器等，所有应用均直接通过 GitHub 或 Codeberg 源进行管理。
+这是一个由 [Obtainium](https://github.com/ImranR98/Obtainium) 驱动的个人安卓开源应用清单。包含了我日常使用的系统工具、影音播放、阅读器及模拟器等，所有应用均直接通过 GitHub 或 Codeberg 源进行管理。
 
 ## 🛠️ 系统与工具 (System & Tools)
 
